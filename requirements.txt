@@ -11,4 +11,4 @@ nibabel
 patsy
 boto3
 jupyterquiz
-voila
+sympy
