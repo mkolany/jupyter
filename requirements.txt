@@ -12,3 +12,5 @@ patsy
 boto3
 jupyterquiz
 sympy
+io
+# bqplot
