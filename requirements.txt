@@ -1,0 +1,14 @@
+seaborn
+sklearn
+nistats
+nilearn
+matplotlib
+ipympl
+nose
+cm
+scipy
+nibabel
+patsy
+boto3
+jupyterquiz
+voila
