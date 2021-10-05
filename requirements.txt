@@ -13,4 +13,5 @@ scipy
 # jupyterquiz
 sympy
 ipycanvas
+ipyevents
 # bqplot
