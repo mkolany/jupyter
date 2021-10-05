@@ -1,16 +1,16 @@
-seaborn
-sklearn
-nistats
-nilearn
+# seaborn
+# sklearn
+# nistats
+# nilearn
 matplotlib
-ipympl
-nose
-cm
+# ipympl
+# nose
+# cm
 scipy
-nibabel
-patsy
-boto3
-jupyterquiz
+# nibabel
+# patsy
+# boto3
+# jupyterquiz
 sympy
-
+ipycanvas
 # bqplot
