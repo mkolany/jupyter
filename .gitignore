@@ -1,9 +1,11 @@
-*
+*.png
+*.mp4
+media/
 
-!.gitignore
-!*.ipynb
-!*.py
+# !.gitignore
+# !*.ipynb
+# !*.py
 
 
-# ...even if they are in subdirectories
-!*/
+# # ...even if they are in subdirectories
+# !*/
