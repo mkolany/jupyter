@@ -45,10 +45,7 @@ def log(msg, log_level="INFO"):
             "RESET": Style.RESET_ALL,
             "INFO": Fore.BLUE,
         }
-        if level in colors:
-            return colors[log_level]
-        else:
-            return Fore.BLUE
+        return colors[log_level] if level in colors else Fore.BLUE
 
     print("[{}] >> {}{}{} <".format(log_level, getColor(log_level), repr(msg), Style.RESET_ALL))
 
