@@ -3,3 +3,7 @@
 !.gitignore
 !*.ipynb
 !*.py
+
+
+# ...even if they are in subdirectories
+!*/
