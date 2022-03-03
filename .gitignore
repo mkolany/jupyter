@@ -2,10 +2,12 @@
 *.mp4
 media/
 
+# Ignore everything
+# *
+
+# But not these files...
 # !.gitignore
 # !*.ipynb
 # !*.py
-
-
 # # ...even if they are in subdirectories
 # !*/
