@@ -11,3 +11,4 @@ media/
 # !*.py
 # # ...even if they are in subdirectories
 # !*/
+.ipynb_checkpoints/manim_old4-checkpoint.ipynb
